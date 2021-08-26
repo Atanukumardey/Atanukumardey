@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Atanukumardey&style=flat)
+<!--![](https://komarev.com/ghpvc/?username=Atanukumardey&style=flat)-->
 <img src="https://github-readme-stats.vercel.app/api?username=Atanukumardey&show_icons=true&theme=radical&count_private=true&hide=stars,issues">
 <!--
 **Atanukumardey/Atanukumardey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
