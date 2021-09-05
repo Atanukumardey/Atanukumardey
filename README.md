@@ -15,6 +15,8 @@
 ### Machine Learning
 - <img alt="Tensorflow" src="https://img.shields.io/badge/-TensorFlowLite-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />:
   - [Voice Detection Using ESP32](https://github.com/Atanukumardey/VoiceDetectionESP32)
+- <img alt="EdgeImpluse" src="https://img.shields.io/badge/-EDGEIMPLUSE-%2339BFCE?style=flat-square&logo=elogoColor=white" />:
+  - [Face Mask Detection Using ESP32](https://github.com/Atanukumardey/FacemaskDetectionESP32)
 <!--
 
 **Atanukumardey/Atanukumardey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
