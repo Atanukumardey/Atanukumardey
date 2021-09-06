@@ -1,8 +1,6 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=Atanukumardey&show_icons=true&theme=radical&count_private=true&hide=stars,issues">
 
-![](https://komarev.com/ghpvc/?username=Atanukumardey&style=flat)
-
 ### Accomplishments and Certificates
 - [ACMI2021 Conference](https://github.com/Atanukumardey/Certificates/blob/main/ACMI2021_Conference.png)
 - [Algorithmic Toolbox](https://coursera.org/share/5cfb0d33d10adfdf3a9ef991d412e0d6)
@@ -17,6 +15,8 @@
   - [Voice Detection Using ESP32](https://github.com/Atanukumardey/VoiceDetectionESP32)
 - <img src="https://avatars.githubusercontent.com/u/52098900?s=20&v=4" alt="drawing" style=""/><img alt="EdgeImpluse" src="https://img.shields.io/badge/-EDGE IMPLUSE-%2339BFCE?style=flat-square&logo=&logoColor=white" />:
   - [Face Mask Detection Using ESP32](https://github.com/Atanukumardey/FacemaskDetectionESP32)
+  - 
+<img src="https://komarev.com/ghpvc/?username=Atanukumardey&style=flat " alt="drawing" style="" align="right"/>
 <!--
 **Atanukumardey/Atanukumardey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
