@@ -20,6 +20,15 @@
 - <img src="https://avatars.githubusercontent.com/u/52098900?s=20&v=4" alt="drawing" style=""/><img alt="EdgeImpluse" src="https://img.shields.io/badge/-EDGE IMPLUSE-%2339BFCE?style=flat-square&logo=&logoColor=white" />:
   - [Face Mask Detection Using ESP32](https://github.com/Atanukumardey/FacemaskDetectionESP32)
 
+### Contact
+[<img align="left" alt="atanukumardey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="atanukumardey | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="atanukumardey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[twitter]: https://github.com/Atanukumardey
+[youtube]: https://www.youtube.com/channel/UCXeCW5ODM4jRZ2KXmrEH73w
+[linkedin]: https://www.linkedin.com/in/atanu-kumar-dey-987589190/
+
 <img src="https://komarev.com/ghpvc/?username=Atanukumardey&style=flat " alt="drawing" style="" align="right"/>
 <!--
 **Atanukumardey/Atanukumardey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
