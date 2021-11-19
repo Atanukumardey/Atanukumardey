@@ -25,7 +25,7 @@
 [<img align="left" alt="atanukumardey | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="atanukumardey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://github.com/Atanukumardey
+[twitter]: https://twitter.com/AtanuKumarDey7
 [youtube]: https://www.youtube.com/channel/UCXeCW5ODM4jRZ2KXmrEH73w
 [linkedin]: https://www.linkedin.com/in/atanu-kumar-dey-987589190/
 
