@@ -9,6 +9,8 @@
 - Courses
   - [Algorithmic Toolbox](https://coursera.org/share/5cfb0d33d10adfdf3a9ef991d412e0d6)
   - [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/6bbb4d2e78e3410cb20bc8ae32e627a6)
+- Certificates
+  - [Problem Solving Basic from HackerRank](https://www.hackerrank.com/certificates/39fc609f8795)
 ### Robotics and IOT
 - <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white" />:
   - [Arduino Calculator library](https://github.com/Atanukumardey/Calculator)
