@@ -19,7 +19,7 @@
   - [Arduino Calculator library](https://github.com/Atanukumardey/Calculator)
   - [Arduino FileManager](https://github.com/Atanukumardey/Filemanager)
   - [Line Follower Robot](https://github.com/Atanukumardey/BasicLFR)
-## Braille Display
+### Braille Display
   - Working on building frimware for a low cost 20 cell braille display.
 ### Machine Learning
 - <img alt="Tensorflow" src="https://img.shields.io/badge/-TensorFlowLite-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />:
